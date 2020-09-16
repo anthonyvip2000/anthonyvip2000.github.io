@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/muscle-gg"
-url: "https://anthonyvip2000.github.io"
+baseurl: "anthonyvip2000.github.io"
+url: ""
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
