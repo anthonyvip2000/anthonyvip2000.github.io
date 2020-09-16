@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "https://muscle-gg.com"
+baseurl: "/muscle-gg"
 url: "https://anthonyvip2000.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
