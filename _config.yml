@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "muscle-gg.com"
-url: ""
+baseurl: ""
+url: "muscle-gg.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
